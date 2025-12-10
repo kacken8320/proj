@@ -1,0 +1,145 @@
+Name:			"Selective Selection Project"
+			"Selektives Selektionsprojekt"
+	auch:		"the Project"
+			"das Projekt"
+Namensherkunft:		natürliche Selektion -> selektierte Selektion
+
+Anthem:			NvBI - good life
+
+Motto:			"Keine Experimente"
+			"Unsere Herzen sind aufrecht und strahlend!"
+			"Our hearts are upright and radiant/luminous/blazing/brilliant/glistering!"
+			"The nail that sticks out is to be hammered in"
+
+Capital:		Der Horst
+
+Official languages:	German
+Secondary language:	English (nouns capitalized), Chinese, Latin
+
+Official script:	Latin alphabet
+			Simplified chinese
+			Traditional chinese
+
+Ethnic groups:		100% others
+
+Religion:		Projectism, Projectianism
+
+Demonym(s):		projectic/projective/projektiv / teilnehmend/participating/participant
+
+Government:		Unitary Marxist-Lenninist one-party socialist republic
+
+Kaiserin:		sarer		zeremoniell
+Papst:			sarer		zerenomiell
+Konsulin:		kidhunter	zeremoniell
+
+Teilnehmende Projektleitung(Participating Director):		kacken
+Teilnehmender Generalsekretär(Participating Chairman):		kacken
+Teilnehmender Präsident(Participating President):		kacken
+Teilnehmender stellvertr. Präsident(Participating Vice Pres.):	kacken
+Teilnehmender Gründer(Participating Founder):			kacken
+Teilnehmender Manager(Participating Manager):			kacken
+
+
+
+Kabinett Kacken I:
+Teilnehmender Kanzler(Participating Chancellor):				kacken
+Teilhelmender Kriegsminister(Participating Minister of War):			flak
+	Präsident des teilnehmenden Nachrichtendienst(President of Project Intelligence): conc
+Teilnehmender Finanzminister(Participating Minister of Finance):		pastafari
+Teilnehmende Justizministerin(Participating Minister of Justice):		kidhunter
+Teilnehmender Propagandaminister(Participating Minister of Enlightenment):	heisung
+Teilnehmende Innenministerin(Participating Minister of internal Affairs):	kidhunter
+	Präsident des teilnehmenden Nachrichtendienst(President of Project Intelligence): conc
+Teilnehmender Infrastrukturminister(Participating Minister of Infrastructure):	villi
+Teilnehmende Gesundheitsministerin(Participating Minister of Health):		kidhunter
+
+Admiral der teilnehmenden Marine(Admiral of Participating Navy):		mcmarkus
+Generälin des teilnehmendes Heeres(General of Participating Army):		kidhunter
+
+Botschafterin des Aserbaidschans im Projekt:					sarer
+Botschafterin des Projekts im Aserbaidschan:					sarer
+
+
+Projektbehörden:
+
+Struktur:
+Gewalt
+	Oberste Projektbehörden
+		Projektoberbehörden (unterstehen Obersten Projektbehörden)
+			Projekt- und Projektunterbehörden (unterstehen Projektoberbehörden)
+
+Jede Anstalt darf nur eine Gewalt ausüben, genau die, die die übergeordnete Anstalt ausübt.
+
+alle exekutiven einheiten haben coole funny NICHT unangenehme tiernamen als codenamen
+
+Legislative
+	Teilnehmendes Parlament
+		beschließt Gesetze
+Judikative
+	Teilnehmendes Verfassungsgericht
+		kontrolliert ob Gesetze und Regierungshandlungen im Einklang mit der Verfassung sind
+	Teilnehmende Gerichte
+		Öffentliche teilnehmende Gerichte
+			entscheiden bei Fragen des öffentlichen Rechts
+		Bürgerlich teilnehmende Gerichte
+			entscheiden bei bürgerrechtlichen Fragen
+		Teilnehmende Strafgerichte
+			entscheiden bei strafrechtlichen Fragen
+		International teilnehmendes beratendes Völkerrechtsgericht
+			berät andere Länder bei garantiertem Entscheidungsrecht aller beteiligter Parteien in Völkerrechtsfragen
+Exekutive
+	Projektministerium der Verteidigung
+		Antiterroreinheit im Innern, Codename Nilpferd
+		Antiterroreinheit des Äußeren, Codename Löwin
+		Teilnehmende Verteidigung (Militär vom Projekt)
+			Teilstreitkräfte:
+				Boden
+					Pioniere
+					Bodenspezialeinheit, Codename Wölfe
+				Luft
+					Luftspezialeinheit, Codename Falken
+				Wasser
+					Wasserspezialeinheit, Codename Orkas
+				Information
+					Abschirmdienst
+					Informationsspezialeinheit, Codename Wurm
+	Projektministerium des Innern
+		Nachrichtendienst für Inneres, Codename: Pandas
+		Gesetzesvollzugsdienst (Polzei), Codename: Labrador
+	Projektministerium des Äußern
+		Nachrichtendienst für Äußeres, Codename: Adler
+	Projektministerium der Finanzen
+	Projektministerium der Justiz
+	Projektministerium der Infrastruktur
+	Projektministerium der Gesundheit
+	Projektministerium der Wirtschaft
+	Projektministerium der Forschung
+	Projektministerium der Erziehung
+
+
+Formation:		Establishment of the Project:	-
+			Proclamation of the Project:	-
+			First constitutional writings:	~2022
+			Current constitution:		-
+
+Currency:		Euro/€
+
+Time zone:		0
+
+Date format:		all using leading zeros
+			tt.mm.jjjj
+			yyyymmdd (ISO 8601, for computers)
+			yyyy年m月d日
+			mm-dd-yyyy
+
+Internet TLD:		.ssp
+			.proj
+
+Nationalsport(in-order):	ARAM
+				Smashen
+				Kung-Fu	
+				Fechten
+				Klettern
+				EU4
+				Muay Thai
+			

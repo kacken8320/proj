@@ -1,0 +1,252 @@
+war ursprünglich wahlprogramm, ging zu sehr richtung projekt, manche elemente sind also noch zu "deutsch"
+
+Grundsätze
+----------
+
+Die Schule ist unpolitisch.
+Der Schulstoff ist projektweit einheitlich geregelt.
+Es gibt nur ein Schulorgan im ganzen Projekt.
+Zusätzliche, kurzlebige "Mode"-Fächer gibt es nicht, um Qualität zu sichern.
+Grund: Kurzlebigkeit der Fächer -> unqualifizierte Lehrer -> schlechter Unterricht
+
+
+Organisation
+------------
+
+Die Schulen werden auf Projektebene von Ministerien geleitet.
+- Projektministerium für Bildung
+	- Projektamt für primäre Bildung
+		- erstellen und fortschreiben von Lehrplan
+		- verwaltet öffentliche, freie, digital kostenlose Bibliothek teilnehmender Grundschulen
+	- Projektamt für sekundäre Bildung
+		- erstellen und fortschreiben von Lehrplan
+		- verwaltet öffentliche, freie, digital kostenlose Bibliothek teilnehmender Mittelschulen
+	- Projektamt tertiäre Bildung
+		- erstellen und fortschreiben von Lehrplan
+		- verwaltet öffentliche, freie, digital kostenlose Bibliothek teilnehmender Oberschulen
+	- Projektamt für Fachschulen
+		- erstellen und fortschreiben von Lehrplan
+		- verwaltet öffentliche, freie, digital kostenlose Bibliothek teilnehmender Fachschulen
+- Projektministerium für Forschung
+	- Projektamt für Universitäten
+		- finanziert autonome, öffentliche, staatliche Universitäten
+		- verwaltet öffentliche, freie, digital kostenlose Bibliothek teilnehmender Universitäten
+		- organisiert folgende, nicht autonome Universitäten:
+			- Projektuniversität für Militärforschung
+			- Projektuniversität für Informationssicherheit und Kryptographie
+			- Projektuniversität für Luft- und Raumfahrt
+			- Projektuniversität für Kernenergie & Fusionsforschung
+			- Projektuniversität für Quantentechnologie
+			- Projektuniversität für bürokratische Prozesse und Verwaltung
+
+Beim Projektministerium für Forschung aufgelistet sind nur Bildungsaufgaben, keine sonstigen Forschungsaufgaben.
+
+
+Bildungsweg
+-----------
+
+- Primäre Bildung
+	- Kindergarten (3-6 Jahre), verpflichtend
+	- Vorschule (5-6 Jahre), freiwillig
+	- Grundschule (6-12 Jahre), verpflichtend
+		- ~16 Schüler pro Klasse
+		- Uniform
+- Sekundäre Bildung
+	- Mittelschule (12-16 Jahre), verpflichtend (Echtweltvergleich: Realschule)
+		- ~32 Schüler pro Klasse
+		- Uniform
+	- Oberschule (16-18 Jahre), freiwillig (Echtweltvergleich: Oberstufe/Abitur)
+		- ~64 Schüler für Grundlagenunterricht
+		- ~32 Schüler für Vertiefungsunterricht
+		- Uniform
+- Tertiäre Bildung
+	- Berufsschule (16-19/18-21), freiwillig (Echtweltvergleich: Berufsschule)
+		- Zugangsvoraussetzung:		Mittelschulabschluss
+		- Schwerpunkt:			Industrie
+		- Unterrichtsform:		Unterricht, Hausaufgaben, Prüfungen
+		- Schüler arbeiten 3 Tage im Betrieb, 2 Tage Schule
+		- Schüler verdienen Geld und werden danach 3 Jahre übernommen
+	- Hochschule für angewandte Wissenschaft (16-19/18-21 Jahre), freiwillig (Echtweltvergleich: Fachhochschule)
+		- Zugangsvoraussetzung:		Mittelschulabschluss/Oberschulabschluss (fächerspezifisch)
+		- Schwerpunkt:			Industrie
+		- Unterrichtsform:		Vorlesungen, Hausaufgaben, Prüfungen
+		- Schüler arbeiten 1 Tage im Betrieb, 4 Tage Schule
+		- Schüler verdienen Geld und werden danach 3 Jahre übernommen
+	- Wissenschaftliche Hochschule (18-21/23 Jahre), freiwillig (Echtweltvergleich: Universität)
+		- Zugangsvoraussetzung:		Oberschulabschluss
+		- Schwerpunkt:			Forschung
+		- Unterrichtsform:		Vorlesungen, Hausaufgaben, Prüfungen
+	- Universität der hohen Künste (UdhK) (18-28), freiwillig
+	- Alte Universität (18-28), freiwillig
+		(für beide Universitäten:)
+		- Zugangsvoraussetzung:		summa cum laude Oberschulabschluss
+						IQ Test >135
+		- Schwerpunkt:			Kunst und Grundsatz
+		- Unterrichtsformen:		variabel
+		- Einführungsstudium (2 Jahre)
+			- Gleiche Module für alle Studenten der UdhK und alten Universität
+		- Grundstudium (5 Jahre)
+			- Pflichtmodule im gewählten Fach
+		- Magisterstudium (3 Jahre)
+			- Spezialisierung/Personalisierung im gewählten Fach
+
+
+Uniform
+-------
+
+Die Uniformen werden auf Projektebene für jede Schule (Grundschule, Mittelschule, Oberschule) in Masse herrgestellt.
+Die Uniformen enthalten kein Plastik und sind nur mit natürlichem Material herrgestellt (außer für Sportkleidung). 
+Die Schüler bekommen jedes Jahr einen neuen Satz Schuluniformen.
+Die Uniformen werden über Steuern finanziert und somit passiv bezahlt. Einkommensschwächere Haushalte zahlen dadurch
+automatisch weniger für die Uniformen.
+Die Uniform beinhaltet:
+	- Hemden (5), kurze Hemden (5)
+	- Hosen (5), kurze Hosen (5)
+	- Socken (10)
+	- Schuhe (2)
+	- Winterschuhe (1)
+	- Pullover (3)
+	- Krawatten (2)
+	- Übergangsjacke (1)
+	- Regenjacke (1)
+	- Winterjacke (1)
+	- Sporthose (2)
+	- Sportshirt (2)
+	- Sportschuhe (1)
+	- Sportjacke (1)
+	- Mütze (1)
+	- Hut (1)
+	- Kappe (1)
+zusätzlich für Mädchen:
+	- Blusen (5), kurze Blusen (5)
+	- Röcke (knielang) (5)
+	- hohe Socken (10)
+	- Schleifenband (2)
+	- Sport-BH (2)
+	- Haarschleife (1)
+
+in der Mittelschule kommt dazu:
+	- Sakko (2)
+
+in der Oberschule:
+	- ist die Uniform ein Anzug
+
++:
+	Gleichheit und Zusammengehörigkeit:
+		- Uniform kaschiert soziale Unterschiede
+		- Fördert Gemeinschaftsgefühl
+		- Verhindert Marken oder Statussymbole
+	Fokus:
+		- Weniger Ablenkung
+	Sicherheit:
+		- Erleichtert es, fremde Personen auf Schulgelände zu erkennen
+	Zeitersparnis und Komfort:
+		- Morgens keine Kleidungsfrage
+	Disziplin und Identifikation:
+		- Stärkt Gefühl von Disziplin und Stolz auf die Schule
+-:
+	Eingeschränkte Individualität:
+		- Wird im Musik- und Kunstunterricht aufgenommen
+		- Wird in außerschulischen Aktivitäten anderweitig gestärkt
+	Kosten:
+		- Auf Projektebene für alle hergestellt, subventioniert bei geringem Einkommen
+
+
+Qualifikationen
+---------------
+
+Mittelschulabschluss -> Zugang zur Fachschule und Universität
+
+
+Fächerkanon
+-----------
+
+Grundschule
+	- Deutsch als Fremdsprache (DaF) (1. Klasse)
+		- Zusatzkurs für Schüler mit nicht-teilnehmender Muttersprache
+	- Deutsch (1. Klasse)
+		- Auch für DaF-Schüler, aber auf Zeugnis nur DaF-Bewertung
+	- Mathe (1. Klasse)
+	- Englisch (1. Klasse)
+	- Medienkompetenz (3. Klasse)
+		- Quellenverifizierung
+		- Polarisierung
+		- Datenschutz & Privatsphäre
+		- Sicherheit
+		- Werbung
+		- Engagementfarming
+	- Sachkunde (3. Klasse)
+		- Geschichte
+		- Biologie
+		- Geographie
+		- Gesellschaft
+		- Kultur
+		- Ethik
+	- Sport, Ernährung, Gesundheit und Hygiene (1. Klasse)
+	- Musik (1. Klasse)
+	- Kunst (1. Klasse)
+
+Mittelschule
+	- Deutsch
+	- Mathe
+	- Englisch
+	- Medienkompetenz
+	- Geschichte
+	- Politische Bildung
+	- Geographie
+	- Informatik
+	- Sport, Ernährung, Gesundheit und Hygiene
+	- Bürgerkunde
+		- Gesellschaften
+		- Kulturen
+		- Ethik, Recht und Schuld
+		- Philosophie
+		- Religionen
+		- Politische Systeme
+		- Alles Vergleichend, nicht bewertend
+	- Biologie
+	- Physik
+	- Chemie
+	- Musik
+	- Kunst
+
+Oberschule
+	- Deutsch
+	- Mathe
+	- Englisch
+	- Wissenschaftliches Arbeiten
+	- Physik
+	- Chemie
+	- Biologie
+	- Informatik
+
+
+Reinigung
+---------
+
+Schüler reinigen die Schule täglich 30 Minuten:
+	- Klassenraum, Schulhof, Flur, Mensa, Turnhalle, Bäder (mit nicht-chemischen Mitteln)
+Die Bäder werden zusätzlich von Fachkräften gereinigt.
+Die Schüler organisieren die Reinigung selbst, Lehrer prüfen sie (Reinigung und Organisation).
+
+
+Tagesablauf
+-----------
+
+Grundschule:
+	08:00 - 08:50	1. Stunde
+	08:50 - 09:00	Pause
+	09:00 - 09:50	2. Stunde
+	09:50 - 10:00	Pause
+	10:00 - 10:50	3. Stunde
+	10:50 - 11:00	Pause
+	11:00 - 11:50	4. Stunde
+	11:50 - 13:00	Große Pause
+	13:00 - 13:50	5. Stunde
+	13:50 - 14:00	Pause
+	14:00 - 14:50	6. Stunde
+	14:50 - 15:00	Pause
+	15:00 - 15:30	Reinigen
+
+Weiterführende Schulen:
+	Gleicher Rhythmus, nur 8 Unterrichtsstunden statt 6, große Pause verschoben.

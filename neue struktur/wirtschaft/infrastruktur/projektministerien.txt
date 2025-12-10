@@ -1,0 +1,102 @@
+-Projektministerium für Werbung und Produktvermarktung
+	-Überprüft jeden Werbespot vor Veröffentlichung nach brainrot.
+	-Werbungen können nur in vorgesehenen Formaten und Zeiten auftreten.
+		-Also z.B. 16:9, 4:3, irn mobile format, 8sek, 16sek, 32sek
+		-Werbung muss klar und über die gesamte Laufzeit mit mind. 15% des Bildschirmplatzes als diese gekennzeichnet sein.
+			-Auch für diese Kennzeichnungen gibt es Richtlinien und Vorlagen aus denen auszuwählen ist.
+		-Bei Werbung muss klar gekennzeichnet sein: (auch das natürlich durch vorgegebene Fontgröße, Position, %-größe etc.)
+			->wer wirbt (Firmenname, +Kontakt)
+			->wer daran verdient (Firmenname, +Kontakt)
+			->wer den Auftrag bekommen hat, die Werbung zu produzieren (Firmenname, +Kontakt)
+		
+	-> Diese Regelungen sind dafür da, um klar differenzieren zu können, ob etwas Werbung ist oder nicht.
+	-Jedes Dienstleistungsunternehmen das Werbung schaltet muss ein Abonement anbieten mit welchem es max 110%
+	 von dem verdient, was es pro User mit Werbung verdient.
+
+-Projektministerium für Bildung und Forschung
+	-staatlich angebotene Studiengänge
+		-Die hohe Kunst der Projekte (für wer Projektofficial werden will das ist so der default laufbahn start)
+		-Naturwissenschaften (including mathe)
+		-Ingenieurswissenschaften
+		-Gesundheitswissenschaften
+		-Wirtschaftswissenschaften (keine Wirtschaftsinformatik)
+		-angebotene Geisteswissenschaften:
+			-Geographie, Historie, Archäologie, Chinastudien, Journalismus, Politik
+		-sonstig angebotene Geisteswissenschaften mit verschärften Aufnahmekriterien:
+			- [hier Studiengänge]
+			-Aufnahmekriterien:
+				-vorweisen dass man schon geisteswissenschaftlich was kann lol
+
+		-angebotene Sozialwissenschaften:
+			-Psychologie, soziale Arbeit, Pädagogik, Soziologie, (Neurologie), Bildungs- und Erziehungswissenschaften,
+			 Demographie, Medienwissenschaften
+		
+		-> Anmerkung zu den Geisteswissenschaften und ihren Auswirkungen auf die Projektteilnehmer:
+			Aktiv werden viele Geisteswissenschaften wie fucking Philosophie oder Kulturwissenschaften
+			nicht vom Projekt zum Studium angeboten. Dies soll in keinster Weise die Wichtigkeit von
+			Kultur, Kunst, Musik, Literatur und Poesie etc. für das Projekt untergraben, und soll
+			lediglich widerspiegeln, dass man dies zuhause zu lassen hat. Sieht man sich die Pflichten
+			eines SSP-Teilnehmers an, kann man lesen, dass es eine Pflicht dieser ist, täglich den
+			Kanon des SSP zu studieren, zur persönlichen Weiterbildung.
+
+	-Es gibt private Universitäten, allerdings mit folgenden erheblichen Einschränkungen:
+		-In diesen Einrichtungen darf man in keinster Weise Zertifikate erhalten, die in irgendeiner
+		 Weise nachweisen, dass man dort studiert hat.
+		-Werden sich durch diese extreme Einschränkung nie private Universitäten durchsetzen, ist diese
+		 Regelung nicht abzuschaffen.
+		-Diese Regelung soll bewirken, dass private Universitäten auch nur zur privaten Bereicherung zu nutzen sind.
+		 Trotz allem müssen diese staatlich anerkannt sein.
+		-Außerdem soll dadurch reguliert werden, dass niemand einen Vorteil in der Bildung durch eine finanziell
+		 bessere Lage bekommt.
+			-Dies wird hier aktiv und im vollster Absicht in negativer und freiheitsentziehender Form getan,
+			 anstatt finanziell schwächeren Personen in der Bildung zu subventionieren. Das ist damit zu begründen,
+			 dass die Reichensteuer (und auch die Steuer) für die Bildung einer jeden Person und deren Umkosten zur
+			 Zeit des Studiums aufkommt.
+
+-Projektministerium für Gesundheit und Ernährung
+	GESUNDHEIT
+	-Es gibt eine einzige nonprofit gesetzlich verpflichtende Krankenversicherung, in der alle Teilnehmenden
+	 Mitglieder sein müssen.
+	-Private Krankenversicherung oder ähnliche Einrichtungen sind strengstens verboten, um eine unterschiedliche
+	 Behandlung von Teilnehmenden im Gesundheitswesen strikt auszuschließen.
+
+	ERNÄHRUNG
+	-Kontrolliert Import und Produktion von Essen
+	-Überprüft Essen auf Gesundheit, verbietet ungesundes Essen
+		-Ziel: jedes im Projekt kaufbare Essen ist gesund, man kann sich damit keinen Schaden zufügen.
+	-Erstellt offizielle Ernährungspläne für unterschiedliche Menschen/Anwendung
+		-z.B.: defizitbedingt, altersbedingt, geschlechtsbedingt, sinnbedingt (Für Leistungssportler,
+			Wissenschaftler, etc.)
+
+	-Erstellt offizielle Sportpläne die ausgeglichen sind, von denen sich jede aber Aussuchen kann
+	welchen frau am liebsten machen würde.
+		-z.B. Einen für Gym, einen für Yoga, einen für Turnen, etc.
+
+-Projektministerium für Innere Sicherheit
+	-alle Textnachrichten, Telefonate und Videoanrufe werden zur Terrorismusvorbeugung und Wahrung der nationalen
+	 Sicherheit abgehört. Dies geschieht durch künstliche Intelligenz die dafür entweder Texterkennung, Spracherkennung
+	 oder Bilderkennung nutzt, so können auch Deckwörter oder Geheimsprachen leicht erkannt werden. Werden die Aufzeichnungen
+	 als nicht besorgniserregend eingestuft, so werden sie unwiederruflich gelöscht, dass das auch wirklich passiert ist
+	 durch die Open-Source-Richtlinien im Grundgesetz geregelt.
+	 Werden die Aufzeichnungen als besorgniserregend eingestuft, so werden die Daten an menschliche Mitarbeiter weiter-
+	 geleitet, die dann weiter verfahren.
+
+
+-Projektministerium der Norm
+	-Macht Normen für allen möglichen Shit, damit nicht alles immer so inkompatibel ist.
+	 Generell sind die Normen in Norm 1 (die Standardnorm), Norm 2, Norm 3 und Norm 4 eingeteilt.
+	 Auch Normen dahinter gibt es, aber jeweils immer unterschiedlich viele, sie sind nur als eine
+	 Art Sammlung da, um alle Spezialfälle abdecken zu können. Trotzdem ist es die Aufgabe des
+	 Normministeriums darauf zu achten, dass es nicht zu viele verschiedene Normen gibt.
+
+-Projektministerium für Korruptionsvorbeugung
+	-Man payt gottlos kohle rein damit leute nicht korrupt werden
+
+
+
+
+
+
+
+
+

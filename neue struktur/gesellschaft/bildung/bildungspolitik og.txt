@@ -1,0 +1,403 @@
+war ursprünglich wahlprogramm, ging zu sehr richtung projekt, manche elemente sind also noch zu "deutsch"
+
+Grundsätze
+----------
+
+Die Schule ist unpolitisch.
+Der Schulstoff ist bundesweit einheitlich geregelt.
+Es gibt kein Schulorgan auf Länderebene.
+Zusätzliche Fächer auf Länderebene werden abgeschafft, um Qualität zu sichern.
+Grund: Kurzlebigkeit der Fächer -> unqualifizierte Lehrer -> schlechter Unterricht
+
+
+Organisation
+------------
+
+Die Schulen werden auf Bundesebene von Ministerien geleitet.
+- Bundesministerium für Bildung
+	- Bundesamt für Grundschulen
+		- erstellen und fortschreiben von Lehrplan
+		- verwaltet öffentliche, freie, digital kostenlose Bibliothek deutscher Grundschulen
+	- Bundesamt für Mittelschulen
+		- erstellen und fortschreiben von Lehrplan
+		- verwaltet öffentliche, freie, digital kostenlose Bibliothek deutscher Mittelschulen
+	- Bundesamt für Oberschulen
+		- erstellen und fortschreiben von Lehrplan
+		- verwaltet öffentliche, freie, digital kostenlose Bibliothek deutscher Oberschulen
+	- Bundesamt für Fachschulen
+		- erstellen und fortschreiben von Lehrplan
+		- verwaltet öffentliche, freie, digital kostenlose Bibliothek deutscher Fachschulen
+- Bundesministerium für Forschung
+	- Bundesamt für Universitäten
+		- finanziert autonome, öffentliche, staatliche Universitäten
+		- verwaltet öffentliche, freie, digital kostenlose Bibliothek deutscher Universitäten
+		- organisiert folgende, nicht autonome Universitäten:
+			- Bundesuniversität für Militärforschung
+			- Bundesuniversität für Informationssicherheit und Kryptographie
+			- Bundesuniversität für Luft- und Raumfahrt
+			- Bundesuniversität für Kernenergie & Fusionsforschung
+			- Bundesuniversität für Quantentechnologie
+			- Bundesuniversität für bürokratische Prozesse und Verwaltung
+
+Beim Bundesministerium für Forschung aufgelistet sind nur Bildungsaufgaben, keine sonstigen Forschungsaufgaben.
+
+Bildungsweg
+-----------
+
+- Kindergarten (3-6 Jahre), verpflichtend
+- Vorschule (5-6 Jahre), freiwillig
+- Grundschule (6-12 Jahre), verpflichtend
+	- ~16 Schüler pro Klasse
+	- Uniform
+- Mittelschule (12-16 Jahre), verpflichtend
+	- ~32 Schüler pro Klasse
+	- Uniform
+- Oberschule (16-18 Jahre), freiwillig
+	- ~64 Schüler für Grundlagenunterricht
+	- ~32 Schüler für Vertiefungsunterricht
+	- Uniform
+- Fachschule (16-19/18-21 Jahre), freiwillig
+	- Vorlesungen, Kapazitätenobergrenze an Saalgröße orientiert
+	- Schwerpunkt: Industrie
+	- keine Uniform
+	- Schüler verdienen Geld
+	- 4 Tage Unterricht, 1 Tag Arbeit
+	- sind danach für n Jahre bei einer Firma angestellt
+- Universität (18-21/23 Jahre), freiwillig
+	- Vorlesungen, Kapazitätenobergrenze an Saalgröße orientiert
+	- Schwerpunkt: Forschung
+	- keine Uniform
+
+
+Uniform
+-------
+
+Die Uniformen werden auf Bundesebene für jede Schule (Grundschule, Mittelschule, Oberschule) in Masse herrgestellt.
+Die Uniformen enthalten kein Plastik und sind nur mit natürlichem Material herrgestellt (außer für Sportkleidung). 
+Die Schüler bekommen jedes Jahr einen neuen Satz Schuluniformen.
+Bei geringem Einkommen der Eltern wird die Uniform automatisch subventioniert.
+Die Uniform beinhaltet:
+	- Hemden (5), kurze Hemden (5)
+	- Hosen (5), kurze Hosen (5)
+	- Socken (10)
+	- Schuhe (2)
+	- Winterschuhe (1)
+	- Pullover (3)
+	- Krawatten (2)
+	- Übergangsjacke (1)
+	- Regenjacke (1)
+	- Winterjacke (1)
+	- Sporthose (2)
+	- Sportshirt (2)
+	- Sportschuhe (1)
+	- Sportjacke (1)
+	- Mütze (1)
+	- Hut (1)
+	- Kappe (1)
+zusätzlich für Mädchen:
+	- Blusen (5), kurze Blusen (5)
+	- Röcke (knielang) (5)
+	- hohe Socken (10)
+	- Schleifenband (2)
+	- Sport-BH (2)
+	- Haarschleife (1)
+
+in der Mittelschule kommt dazu:
+	- Sakko (2)
+
+in der Oberschule:
+	- ist die Uniform ein Anzug
+
++:
+	Gleichheit und Zusammengehörigkeit:
+		- Uniform kaschiert soziale Unterschiede
+		- Fördert Gemeinschaftsgefühl
+		- Verhindert Marken oder Statussymbole
+	Fokus:
+		- Weniger Ablenkung
+	Sicherheit:
+		- Erleichtert es, fremde Personen auf Schulgelände zu erkennen
+	Zeitersparnis und Komfort:
+		- Morgens keine Kleidungsfrage
+	Disziplin und Identifikation:
+		- Stärkt Gefühl von Disziplin und Stolz auf die Schule
+-:
+	Eingeschränkte Individualität:
+		- Wird im Musik- und Kunstunterricht aufgenommen
+		- Wird in außerschulischen Aktivitäten anderweitig gestärkt
+	Kosten:
+		- Auf Bundesebene für alle hergestellt, subventioniert bei geringem Einkommen
+
+
+Qualifikationen
+---------------
+
+Mittelschulabschluss -> Zugang zur Fachschule und Universität
+
+
+Fächerkanon
+-----------
+
+Grundschule
+	- Deutsch als Fremdsprache (DaF) (1. Klasse)
+		- Zusatzkurs für Schüler mit nicht-deutscher Muttersprache
+	- Deutsch (1. Klasse)
+		- Auch für DaF-Schüler, aber auf Zeugnis nur DaF-Bewertung
+	- Mathe (1. Klasse)
+	- Englisch (1. Klasse)
+	- Medienkompetenz (3. Klasse)
+		- Quellenverifizierung
+		- Polarisierung
+		- Engagementfarming
+		- Datenschutz & Privatsphäre
+		- Werbung
+		- Sicherheit
+	- Sachkunde (3. Klasse)
+		- Geschichte
+		- Biologie
+		- Geographie
+		- Gesellschaft
+		- Kultur
+		- Ethik
+	- Sport, Ernährung, Gesundheit und Hygiene (1. Klasse)
+	- Musik (1. Klasse)
+	- Kunst (1. Klasse)
+
+Mittelschule
+	- Deutsch
+	- Mathe
+	- Englisch
+	- Medienkompetenz
+	- Geschichte
+	- Biologie
+	- Politische Bildung
+	- Geographie
+	- Physik
+	- Chemie
+	- Informatik
+	- Sport, Ernährung, Gesundheit und Hygiene
+	- Bürgerkunde
+		- Gesellschaft
+		- Kultur
+		- Ethik
+		- Philosophie
+		- Religionen
+	- Musik
+	- Kunst
+
+Oberschule
+	- Deutsch
+	- Mathe
+	- Englisch
+	- Wissenschaftliches Arbeiten
+	- Physik
+	- Chemie
+	- Biologie
+	- Informatik
+
+
+Reinigung
+---------
+
+Schüler reinigen die Schule täglich 30 Minuten:
+	- Klassenraum, Schulhof, Flur, Mensa, Turnhalle, Bäder (mit nicht-chemischen Mitteln)
+Die Bäder werden zusätzlich von Fachkräften gereinigt.
+Die Schüler organisieren die Reinigung selbst, Lehrer prüfen sie (Reinigung und Organisation).
+
+
+Tagesablauf
+-----------
+
+Grundschule:
+	08:00 - 08:45	1. Stunde
+	08:45 - 09:00	Pause
+	09:00 - 09:45	2. Stunde
+	09:45 - 10:00	Pause
+	10:00 - 10:45	3. Stunde
+	10:45 - 11:00	Pause
+	11:00 - 11:45	4. Stunde
+	11:45 - 13:00	Große Pause
+	13:00 - 13:45	5. Stunde
+	13:45 - 14:00	Pause
+	14:00 - 14:45	6. Stunde
+	14:45 - 15:00	Pause
+	15:00 - 15:30	Reinigen
+
+Weiterführende Schulen:
+	Gleicher Rhythmus, nur 8 Unterrichtsstunden statt 6.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GPT VERSION:
+
+1. Grundsätze
+==============
+
+1.1 Unpolitische Schule
+------------------------
+- Der gesamte Schulbetrieb ist politisch neutral.
+
+1.2 Einheitlicher Lehrplan
+---------------------------
+- Der Schulstoff ist bundesweit identisch geregelt.
+- Es gibt kein Schulorgan auf Länderebene.
+- Zusätzliche, regionale Fächer entfallen.
+  Grund: Kurzlebigkeit → unqualifizierte Lehrer → schlechte Qualität.
+
+
+2. Bildungsweg
+==============
+
+2.1 Frühkindliche Bildung
+--------------------------
+- Kindergarten (3–6 Jahre), freiwillig
+- Vorschule (5–6 Jahre), freiwillig
+
+2.2 Allgemeinbildende Schulen
+------------------------------
+- Grundschule (6–12 Jahre)
+  - Verpflichtend
+  - ~16 Schüler pro Klasse
+  - Keine Uniform
+
+- Mittelschule (12–16 Jahre)
+  - Verpflichtend
+  - ~32 Schüler pro Klasse
+  - Uniformpflicht
+
+- Oberschule (16–18 Jahre)
+  - Freiwillig
+  - ~64 Schüler pro Klasse
+  - Keine Uniform
+
+2.3 Berufs- und Hochschulbildung
+---------------------------------
+- Fachschule (16–19 / 18–21 Jahre)
+  - Zugang: Mittelschulabschluss
+  - Schwerpunkt: Industrie
+  - Vorlesungen mit Saalkapazität
+
+- Universität (18–21 / 23 Jahre)
+  - Zugang: Oberschulabschluss
+  - Schwerpunkt: Forschung
+  - Vorlesungen mit Saalkapazität
+
+
+3. Qualifikationen
+===================
+
+3.1 Zugang Fachschule
+-----------------------
+- Nach Abschluss der Mittelschule.
+
+3.2 Zugang Universität
+------------------------
+- Nach Abschluss der Oberschule.
+
+
+4. Fächerkanon
+===============
+
+4.1 Grundschule
+----------------
+- Deutsch als Fremdsprache (DaF) ab 1. Klasse
+  - Zusatzkurs für nicht-deutsche Muttersprachler
+- Deutsch ab 1. Klasse
+  - Auch für DaF-Schüler, aber auf Zeugnis nur DaF-Bewertung
+- Mathematik ab 1. Klasse
+- Englisch ab 1. Klasse
+- Sport, Ernährung und Gesundheit ab 1. Klasse
+- Musik ab 1. Klasse
+- Kunst ab 1. Klasse
+- Medienkompetenz ab 3. Klasse
+  - Quellenprüfung, Polarisierung, Engagementfarming
+- Sachkunde ab 3. Klasse
+  - Geschichte, Biologie, Geographie, Gesellschaft, Kultur, Ethik
+
+4.2 Mittelschule
+-----------------
+- Deutsch
+- Mathematik
+- Englisch
+- Medienkompetenz
+- Geschichte
+- Biologie
+- Politische Bildung
+- Geographie
+- Physik
+- Chemie
+- Informatik
+- Sport, Ernährung und Gesundheit
+- Bürgerkunde (Gesellschaft, Kultur, Ethik, Philosophie)
+- Musik
+- Kunst
+
+4.3 Oberschule
+---------------
+- Deutsch
+- Mathematik
+- Englisch
+- Wissenschaftliches Arbeiten
+- Physik
+- Chemie
+- Biologie
+- Informatik
+
+
+5. Organisation und Reinigung
+==============================
+
+5.1 Schülerreinigung
+----------------------
+- Schüler reinigen täglich 30 Minuten:
+  - Klassenraum, Schulhof, Flur, Mensa, Turnhalle, Bäder
+  - Verwendung nicht-chemischer Putzmittel
+- Lehrkräfte prüfen die Reinigung.
+
+5.2 Fachreinigung
+-------------------
+- Bäder werden zusätzlich von bezahltem Reinigungspersonal professionell gereinigt.
+
+
+6. Tagesstruktur
+=================
+
+6.1 Grundschule
+----------------
+- 6 Unterrichtsstunden + 30 Minuten Reinigung
+- Beispielhafter Tagesplan:
+  08:00–08:45   1. Stunde
+  08:45–09:00   Pause
+  09:00–09:45   2. Stunde
+  09:45–10:00   Pause
+  10:00–10:45   3. Stunde
+  10:45–11:00   Pause
+  11:00–11:45   4. Stunde
+  11:45–13:00   Große Pause
+  13:00–13:45   5. Stunde
+  13:45–14:00   Pause
+  14:00–14:45   6. Stunde
+  14:45–15:00   Pause
+  15:00–15:30   Reinigung
+
+6.2 Weiterführende Schulen
+---------------------------
+- Gleicher Tagesrhythmus wie Grundschule.
+- 8 Unterrichtsstunden + 30 Minuten Reinigung.
+

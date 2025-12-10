@@ -1,0 +1,47 @@
+-Siedlung
+-Dorf
+-Kleinstadt
+-Stadt
+-Großstadt	
+-Metropole
+
+Grün- Kategorie
+-Grün-Kleinstadt
+-Grün-Stadt
+-Grün-Großstadt
+-Grün-Metropole
+Bedeutung:
+	Damit eine Stadt sich "Grün" nennen darf, muss sie folgende Kriterien erfüllen:
+	-Jede Unterkunft ist nur 5 Minuten Fußweg von der nächsten Grünfläche entfernt.
+	-Für alle 800m² urbanes Gebiet, gibt es 1600m² Grüngebiet.
+	-Da ist es nur erlaubt zu Fuß zu laufen, und man darf maximal einen Rucksack mitnehmen.
+	 Wer seinen Scheiß liegen lässt, wird geschlachtet.
+	-Jedes Hochhaus außerhalb einer Grünfläche muss oben mind. 80% bewachsen sein.
+	-Jedes nicht-Hochhaus-Grundstück muss mindestens 50% Grünfläche haben.
+	-Jede Straße und jeder Sidewalk muss neben- oder in der Mitte von sich einen Grünstreifen
+	 mit einer Mindestbreite von 16% der Gesamtbreite haben. Ist eine Straße also 10m Breit, muss
+	 sie einen adjacent Grünstreifen von mind. 1,60m haben.
+	
+Grünfläche (Definition):
+	Mindestens 800m² groß. Mindestens 16% Wasser, 32% Wald, 32% Wiese, 20% beliebig/angepasst.
+	Pflanzenartenvielfalt:
+	(ANGABEN SEHR WAHRSCHEINLICH ASS, kp wie viele man dann pro art brauch undso, will halt dass sehr viel biodiversity ist undso und es sehr sicko wird)
+		Bäume:		Mindestens 16 Arten.
+		Pflanzen:	Mindestens 512 Arten. (in Deutschland sind 4105 bekannt)
+
+		Anthropodanten:	Mindestens 2048 Arten.
+		Tiere:		Mindestens 16 Arten. (Including Würmer, Käfer, der ganze Kleinscheiß weil die krabbeln so eklig).
+
+Es wird verschiedene Grünflächen vorgefertigt geben, darunter:
+	Tropisch/Regenwald, Savanne, Feuchtsavanne, Mischwald, Nadelwald, Steppe, Ostseitenklimate (ok obviously 1:1 aus inet, quelle: https://de.wikipedia.org/wiki/Klimazone#/media/Datei:Klimazonen_(3_Modelle)_und_Makroklimate.png.
+
+	diese vorgefertigten Grünflächen sind nützlich, damit Städte schneller entscheiden können, und das Bauen schneller und günstiger ist.
+	Das Bauen der verschiedenen Grünflächen ist natürlich unterschiedlich teuer. Damit eine Stadt nicht einfach immer das billigste nimmt,
+	sind alle Preise auf den Preis des teuersten genormt, und das überschüssige Geld geht an das Projektmanagement. Außerdem darf jede Stadt
+	nicht immer das selbe bauen, man muss viele verschiedene nehmen, also so dafür kann man ja dann später sagen dass die so nur maxd. 50%
+	der Grünflächen das gleiche haben dürfen oder 25% oder so. 
+
+
+
+Quellen:
+	https://de.wikipedia.org/wiki/Artenvielfalt#Deutschland

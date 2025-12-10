@@ -1,0 +1,88 @@
+ANTIKE
+Standardwerke:
+
+NAME ORIGINAL		|NAME DEUTSCH				|NAME ENGLISCH				|AUTORIN/AUTOR		|EINORDNUNG		|ORIGINAL SPRACHE	|ENTSTEHUNG		
+_______________________________________________________________|_______________________________________|_______________________|_______________________|_______________________|_______________________
+Τὰ εἰς ἑαυτόν		|Selbstbetrachtungen			|(Meditations)				|Marcus Aurelius	|(Stoizismus)		|Koine			|ca. 170 AD
+------------------------+---------------------------------------+---------------------------------------+-----------------------+-----------------------+-----------------------+-----------------------
+論語			|Gespräche des Konfuzius/		|(The Analects)				|Konfuzius' Schüler	|(Konfuzianismus)	|Chinesisch		|ca. 200 BC
+			|Analekten des Konfuzius		|					|			|			|			|
+------------------------+---------------------------------------+---------------------------------------+-----------------------+-----------------------+-----------------------+-----------------------
+Ἐπικτήτου διατριβαί	|Gespräche und ausgewählte Schriften	|(Discourses and Selected Writings)	|Epiktets Schüler Arrian|(Stoizismus)		|Koine			|ca. 108 AD
+------------------------+---------------------------------------+---------------------------------------+-----------------------+-----------------------+-----------------------+-----------------------
+भगवद्गीता			|Bhagavad Gita				|					|			|(Hinduismus)		|Sanskrit		|ca. zw. 500-200 BC
+------------------------+---------------------------------------+---------------------------------------+-----------------------+-----------------------+-----------------------+-----------------------
+道德經			|Tao Te Ching				|					|			|(Taoismus)		|Chinesisch		|ca. 400 BC
+------------------------+---------------------------------------+---------------------------------------+-----------------------+-----------------------+-----------------------+-----------------------
+莊子			|Zhuangzi				|Das wahre Buch vom südlichen Blütenland|			|(Taoismus)		|Chinesisch		|ca. 360 BC
+------------------------+---------------------------------------+---------------------------------------+-----------------------+-----------------------+-----------------------+-----------------------
+Ἀπολογία Σωκράτους	|Apologie des Sokrates			|					|Platon			|			|Altgriechisch		|ca. 400 BC
+------------------------+---------------------------------------+---------------------------------------+-----------------------+-----------------------+-----------------------+-----------------------
+
+
+Sammelwerke:
+
+NAME ORIGINAL		|NAME DEUTSCH				|NAME ENGLISCH				|AUTORIN/AUTOR		|EINORDNUNG			
+________________________|_______________________________________|_______________________________________|_______________________|______________________________________________
+五經 Wǔjīng		|Fünf Klassiker des Konfuzianismus	|Four Books and Five Classics		|			|Fünf ausgewählte Bücher, deren Studium
+			|					|					|			|Konfuzius empfiehlt.
+________________________|_______________________________________|_______________________________________|_______________________|______________________________________________
+易經 Yijing		|(Das Buch der Wandlungen/		|					|			|Antikes Handbuch zur Orakelbefragung
+			|vierundsechzig Hexagramme/		|					|			|
+			|Textbuch des Großwahrsagers)		|					|			|
+------------------------|---------------------------------------|---------------------------------------|-----------------------|----------------------------------------------
+詩經 Shijing		|(Das Buch der Lieder)			|					|			|Eine Sammlung von alten Volksliedern
+------------------------|---------------------------------------|---------------------------------------|-----------------------|----------------------------------------------
+書經 Shujing		|(Das Buch der Urkunden)		|					|			|Sammlung von Gesetzen und Erlassen
+			|					|					|			|mit Kommentierung
+------------------------|---------------------------------------|---------------------------------------|-----------------------|----------------------------------------------
+禮記 Liji		|(Das Buch der Riten)			|					|			|Riten für den Umgang mit den Ahnen,
+			|					|					|			|dem König, der Familie
+------------------------|---------------------------------------|---------------------------------------|-----------------------|----------------------------------------------
+春秋 Chunqiu		|(Die Frühlings- und herbstannalen	|					|			|Eine Chronik der Ereignisse seines Hei-
+			|					|					|			|matstaates Lu 8. bis zum 5. Jhr. v. Chr.
+
+
+contendor:
+politeia plato
+politik aristoteles
+
+MODERNE
+mythos des sisyphos
+kritik der reinen vernunft
+
+
+chat gpt additions:
+    Buddhismus:
+        "Dhammapada" - Eine Sammlung von Aphorismen, die die Lehren des Buddhismus zusammenfassen.
+        "Mahayana Sutras" - Eine wichtige Textsammlung im Mahayana-Buddhismus.
+
+    Judentum:
+        "Tanach" - Die heilige Schrift des Judentums, umfassend die Tora, die Propheten und die Schriften.
+        "Talmud" - Eine zentrale Sammlung jüdischer Gesetze und Traditionen.
+
+    Christentum:
+        Neben der Bibel könntest du auch spezifische theologische Werke von Kirchenvätern oder Reformatoren einbeziehen.
+
+    Islam:
+        "Qur'an" - Die heilige Schrift des Islam.
+        "Hadith" - Sammlungen der Aussprüche und Handlungen des Propheten Muhammad.
+
+    Moderne Philosophie:
+        Werke von Philosophen wie Immanuel Kant, Friedrich Nietzsche, Jean-Jacques Rousseau, John Locke, etc.
+
+    Literatur und Poesie:
+        Klassische Werke der Weltliteratur, wie Homer's "Odyssee", Goethe's "Faust", Shakespeare's Dramen, etc.
+
+    Moderne Literatur:
+        Werke von Autoren des 20. und 21. Jahrhunderts, die einen starken Einfluss auf die moderne Gesellschaft hatten.
+
+    Wissenschaftliche Literatur:
+        Werke von Wissenschaftlern wie Charles Darwin, Albert Einstein, Stephen Hawking, etc.
+
+    Philosophische Essays:
+        Essays von berühmten Philosophen zu verschiedenen Themen wie Ethik, Politik, Ästhetik, etc.
+
+    Spirituelle Praktiken und Anleitungen:
+
+    Bücher über Meditation, Yoga, Kontemplation, etc.

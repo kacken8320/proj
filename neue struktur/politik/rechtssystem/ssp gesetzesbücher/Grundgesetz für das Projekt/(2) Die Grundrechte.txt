@@ -1,0 +1,10 @@
+Artikel 1
+(1) Ein Teilnehmer darf über das Projekt (öffentlich) sagen was er möchte, ohne irgendeine
+Strafe oder Konsequenz davon tragen zu müssen. Dieses Recht zu schützen ist Verpflichtung
+aller projektlichen Gewalt.
+
+(2) Ein Teilnehmer darf alle Instanzen und Einrichtungen des Projektes komplett einsehen;
+Alle Einrichtungen des Projektes müssen vollständige Transparenz in allen Belängen bieten.
+
+Artikel 2
+(1) Jegliche von Projekteinrichtungen genutze Software muss open-source sein.

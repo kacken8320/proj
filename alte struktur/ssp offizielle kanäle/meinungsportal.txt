@@ -1,0 +1,61 @@
+es soll eine website geben, auf der jeder (mit einem offiziellen bestätigten account ihrer identität, und mit 2 anonymen
+account) seine meinung zu etwas schreiben kann. Dadurch setzen sich die anonymen Stimmen durch.
+aktuelle themen, umfragen, politische änderungen, für alle politischen fragen die es gibt, gibt es ein portal.
+gibt man dazu dann ihre meinung/stimme/these ab, wird diese zu ähnlichen meinungen einkategorisiert, um klarer zu sehen
+wie viele leute diese meinung unterstützen. diese menge an einkategorisierten meinungen, wird mit anderen einkategorisierten
+meinungen einsortiert, welche sich etwas weniger ähneln, als die ursprünglichen kategorien. und so weiter, bis 2 übrig sind.
+Dabei geht man von oben nach unten, alle meinungen werden also erst in 2 geteilt, dann diese jeweils in 2 andere, etc.
+	weiter unten im baum kann man dann auch mehr als 2 unterscheidungen treffen, um diese spezifischer zu sortieren.
+
+Die Kriterien in die es einsortiert wird stehen NICHT vorher fest, und bilden sich im Laufe der Auswertung der Eingaben der
+Teilnehmer, anhand von was sie geschrieben haben.
+Die Kriterien werden AI generiert, und die Teilnehmer werden sich nach erstellen dieser manuell dort eintragen.
+
+
+
+Beispiel:
+(Zur vereinfachung sind offizielle und anonyme Accounts hier weggelassen und die Teilnehmer einfach durchnummeriert)
+Projektumfrage:
+	Was ist Ihre Meinung zur Flüchtlingspolitik?
+
+teilnehmer1.migrationspolitik.umfrageNrX.antwort = "Ich finde wir müssen wegen der sinkenden Geburtenrate so viele Flüchtlinge
+						aufnehmen wie es geht, um an genügend Arbeitskräfte heranzukommen."
+teilnehmer2.migrationspolitik.umfrageNrX.antort = "Da die Kriminalitätsrate unter Flüchtlingen sehr viel höher ist als bei
+						nicht-Flüchtlingen, sollten wir meiner Meinung nach keine Flüchtlinge aufnehmen."
+teilnehmer3.migrationspolitik.umfrageNrX.antwort = "Wir sollten Flüchtlinge aufnehmen um unsere Wirtschaft zu stärken, jedoch
+						strikte Aufnahmekriterien haben, um sicherzustellen dass diese nicht kriminell sind."
+teilnehmer4.migrationspolitik.umfrageNrX.antwort = "Ich mag Ausländern nicht, weshalb ich alle Flüchtlinge abschieben möchte."
+teilnehmer5.migrationspolitik.umfrageNrX.antwort = "Jeder Mensch ist gleich, Nationalität ist menschengemacht. Deshalb sollte
+						jeder Mensch barrierefrei in unser Land kommen können."
+teilnehmer6.migrationspolitik.umfrageNrX.antwort = "Wir sollten die Ausgaben zur Migrationsaufnahme erhöhen, um besser kontrollieren
+						zu können wer reinkommt, aber auch genug Kapazität haben damit dies schnell geschieht,
+						um die Arbeitskräfte zu bekommen."
+teilnehmer7.migrationspolitik.umfrageNrX.antwort = "Ausländer raus. Kriminelles Pack."
+teilnehmer8.migrationspolitik.umfrageNrX.antwort = "Die Flüchtlingspolitik geschieht leider so fahrlässig, dass diese weiter zu
+						unterstützen wirtschaftlich eine schlechte Idee ist. Das Funding für die Migration
+						sollte herabgesenkt werden und Flüchtlinge nicht aufgenommen."
+teilnehmer9.migrationspolitik.umfrageNrX.antwort = "I love me some coloured dick."
+
+
+Einteilung Stufe 1: (2 Kategorien)
+	migrationspolitik.umfrageNrX.einteilung1 = ("Migranten aufnehmen.",		{teilnehmer1, teilnehmer3, teilnehmer5, teilnehmer6, teilnehmer9})
+	migrationspolitik.umfrageNrX.einteilung2 = ("Migranten nicht aufnehmen.",	{teilnehmer2, teilnehmer4, teilnehmer7})
+
+Einteilung Stufe 2: (4 Kategorien)
+	migrationspolitik.umfrageNrX.einteilung1.1 = ("Migranten aufnehmen, Aufnahme lockern.",		{teilnehmer1, teilnehmer5, teilnehmer9})
+	migrationspolitik.umfrageNrX.einteilung1.2 = ("Migranten aufnehmen, Aufnahmen verschärfen.",	{teilnehmer3, teilnehmer6})
+	migrationspolitik.umfrageNrX.einteilung2.1 = ("Migranten nicht aufnehmen, weil Kriminalität.",	{teilnehmer2, teilnehmer6})
+	migrationspolitik.umfrageNrX.einteilung2.2 = ("Migranten nicht aufnehmen, anders motiviert.",	{teilnehmer7})
+
+
+
+Die Einteilung wird so lange rekursiv gemacht, bis im niedrigsten Level in jeder Einteilung durchschnittlich 2 Teilnehmer sind.
+
+Dadurch kann man hübsche Statistiken wie das hier machen:
+
+5/9 für die Aufnahme von Migranten.
+	3/5 für Lockerung der Aufnahme.
+	2/5 für Verschärfung der Aufnahme.
+3/9 gegen die Aufnahme von Migranten.
+	2/3 wegen der Kriminalitätsrate.
+	1/3 anders motiviert.

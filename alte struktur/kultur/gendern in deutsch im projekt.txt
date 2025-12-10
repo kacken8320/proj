@@ -1,0 +1,55 @@
+männlich einzahl:	(Stamm)en
+nicht-binär einzahl:	(Stamm)on
+weiblich einzahl:	(Stamm)in
+männlich mehrzahl:	(Stamm)inen
+nicht-binär mehrzahl:	(Stamm)inon
+weiblich mehrzahl:	(Stamm)inin
+
+männlich einzahl:	Maureren
+nicht-binär einzahl:	Maureron
+weiblich einzahl:	Maurerin
+männlich mehrzahl:	Maurerinen
+nicht-binär mehrzahl:	Maurerinon
+weiblich mehrzahl:	Maurerinin
+
+männlich einzahl:	Polizisten
+nicht-binär einzahl:	Poliziston
+weiblich einzahl:	Polizistin
+männlich mehrzahl:	Polizistinen
+nicht-binär mehrzahl:	Polizistinon
+weiblich mehrzahl:	Polizistinin
+
+männlich einzahl:	Studenten
+nicht-binär einzahl:	Studenton
+weiblich einzahl:	Studentin
+männlich mehrzahl:	Studentinen
+nicht-binär mehrzahl:	Studentinon
+weiblich mehrzahl:	Studentinin
+
+männlich einzahl:	Messeren
+nicht-binär einzahl:	Messeron
+weiblich einzahl:	Messerin
+männlich mehrzahl:	Messerinen
+nicht-binär mehrzahl:	Messerinon
+weiblich mehrzahl:	Messerinin
+
+männlich einzahl:	Bürgeren
+nicht-binär einzahl:	Bürgeron
+weiblich einzahl:	Bürgerin
+männlich mehrzahl:	Bürgerinen
+nicht-binär mehrzahl:	Bürgerinon
+weiblich mehrzahl:	Bürgerinin
+
+männlich einzahl:	Gigoloen
+nicht-binär einzahl:	Gigoloon
+weiblich einzahl:	Gigoloin
+männlich mehrzahl:	Gigoloinen
+nicht-binär mehrzahl:	Gigoloinon
+weiblich mehrzahl:	Gigoloinin
+
+männlich einzahl:	Dieben
+nicht-binär einzahl:	Diebon
+weiblich einzahl:	Diebin
+männlich mehrzahl:	Diebinen
+nicht-binär mehrzahl:	Diebinon
+weiblich mehrzahl:	Diebinin
